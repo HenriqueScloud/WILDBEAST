@@ -1,6 +1,9 @@
  <h1 align='center'>Projeto WildBeast Blog</h1>
 
-Welcome to the WildBeast Blog project! 🦁🌍
+
+
+<p align='center'> <img src='Captura de tela 2023-11-07 152443.png'> </p>
+<p align='center'>Welcome to the WildBeast Blog project! 🦁🌍</p>
 
 <p align='center'>O WildBeast é um blog sobre animais que tem como objetivo trazer informações e curiosidades sobre a vida selvagem. Este projeto foi desenvolvido com foco em explorar conceitos avançados de responsividade, utilizando diferentes técnicas e ferramentas, como Grid e Flexbox, para criar layouts de sites versáteis e atraentes. </p>
 
